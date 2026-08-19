@@ -1,0 +1,17 @@
+:root{
+ --main-color: #0090F0;
+ --p_color: #7b7b7b;
+ --bg_color: #f3f3f3;
+ --white_color: #fff;
+ --color_heading: #253237;
+ --border_color: #d6d6d6d5;
+}
+
+.products{
+    padding: 50px 0;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    gap: 20px;
+}
